@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'gm-webapp-seb-dev-01'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B35628259B249E886BC8A3DC3332C85 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C5CFDDA72C23485EB7C5CDC3E5F323EF }}
           package: .
